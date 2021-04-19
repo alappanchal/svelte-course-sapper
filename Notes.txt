@@ -1,0 +1,3 @@
+This is the project of svelte with server side rendering along with routing which has individual urls which points to the component of this app.
+
+Sapper is the wrapper around the svelte only app to enhance some features such as server side rendering, routing etc.
